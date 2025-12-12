@@ -28,6 +28,7 @@
 * **Frontend**: React, TypeScript, Vite, Zustand, TailwindCSS, Vercel
 * **Backend**: Spring Boot, JPA, Spring Security, Redis, PostgreSQL (AWS RDS), S3
 * **Infra**: Docker, AWS EC2, GitHub Actions + CodeDeploy
+<img width="796" height="575" alt="스크린샷 2025-12-12 오전 10 29 41" src="https://github.com/user-attachments/assets/81515995-02ad-47a3-a5d8-6c586c2dffa4" />
 
 ---
 
