@@ -1,5 +1,6 @@
 # P-Project8 – PetFit 🐶👗
-<img width="830" height="553" alt="스크린샷 2025-12-12 오전 10 24 54" src="https://github.com/user-attachments/assets/85415ef8-5083-426d-bc60-80976d03b3e3" />
+
+<img width="830" height="553" alt="스크린샷 2025-12-12 오전 10 24 54" src="https://github.com/user-attachments/assets/0b8744e7-93ad-4b8c-86ac-3a086b5f60c2" />
 
 **PetFit**은 반려인이 올린 **반려견 사진과 쇼핑몰 상품 이미지를 AI로 스타일링**하여,
 강아지에게 어울리는 모습을 미리 확인하고 **찜·장바구니·구매까지 한 번에 이어지는** 반려견 패션 쇼핑 서비스입니다.
@@ -27,7 +28,6 @@
 * **Frontend**: React, TypeScript, Vite, Zustand, TailwindCSS, Vercel
 * **Backend**: Spring Boot, JPA, Spring Security, Redis, PostgreSQL (AWS RDS), S3
 * **Infra**: Docker, AWS EC2, GitHub Actions + CodeDeploy
-<img width="796" height="575" alt="스크린샷 2025-12-12 오전 10 29 41" src="https://github.com/user-attachments/assets/7bf8c435-88dd-44ec-b2ef-6edb409452f2" />
 
 ---
 
